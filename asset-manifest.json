@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DeathBladeGamerZ/TextUtils.git/static/css/main.4d4f9374.css",
-    "main.js": "/DeathBladeGamerZ/TextUtils.git/static/js/main.307bc8f4.js",
-    "static/js/453.02b6ed6f.chunk.js": "/DeathBladeGamerZ/TextUtils.git/static/js/453.02b6ed6f.chunk.js",
-    "static/media/lightback.png": "/DeathBladeGamerZ/TextUtils.git/static/media/lightback.85f149f4fb34d5641bbb.png",
-    "static/media/darkback.png": "/DeathBladeGamerZ/TextUtils.git/static/media/darkback.cec06d385b4c1d0c1ff0.png",
-    "index.html": "/DeathBladeGamerZ/TextUtils.git/index.html",
-    "main.4d4f9374.css.map": "/DeathBladeGamerZ/TextUtils.git/static/css/main.4d4f9374.css.map",
-    "main.307bc8f4.js.map": "/DeathBladeGamerZ/TextUtils.git/static/js/main.307bc8f4.js.map",
-    "453.02b6ed6f.chunk.js.map": "/DeathBladeGamerZ/TextUtils.git/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/TextUtils/static/css/main.ac7245ca.css",
+    "main.js": "/TextUtils/static/js/main.5a88f7ea.js",
+    "static/js/453.02b6ed6f.chunk.js": "/TextUtils/static/js/453.02b6ed6f.chunk.js",
+    "static/media/lightback.png": "/TextUtils/static/media/lightback.85f149f4fb34d5641bbb.png",
+    "static/media/darkback.png": "/TextUtils/static/media/darkback.cec06d385b4c1d0c1ff0.png",
+    "index.html": "/TextUtils/index.html",
+    "main.ac7245ca.css.map": "/TextUtils/static/css/main.ac7245ca.css.map",
+    "main.5a88f7ea.js.map": "/TextUtils/static/js/main.5a88f7ea.js.map",
+    "453.02b6ed6f.chunk.js.map": "/TextUtils/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d4f9374.css",
-    "static/js/main.307bc8f4.js"
+    "static/css/main.ac7245ca.css",
+    "static/js/main.5a88f7ea.js"
   ]
 }
